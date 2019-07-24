@@ -1,4 +1,4 @@
 # stylelint-url-bug
 
-`npm run test-correct` url encoded url
-`npm run test-wrong` without encoding
+- `npm run test-correct` encoded url
+- `npm run test-wrong` without encoding
